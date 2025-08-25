@@ -6,25 +6,25 @@ export const Testimonials = () => {
     id: 1,
     name: 'Sakshi',
     location: 'ballia',
-    image: '../public/sakshi.jpg',
+    image: '/sakshi.jpg',
     text: "I absolutely loved my acrylic nails! Tisha is amazing – her creativity and attention to detail are unmatched"
   }, {
     id: 2,
     name: 'Siddhi',
     location: 'ballia',
-    image: '../public/siddhi.png',
+    image: '/siddhi.png',
     text: "I've been a regular client for over a year now. The salon is always clean, the staff is friendly, and the nail designs are absolutely stunning. Worth every rupee!"
   }, {
     id: 3,
     name: 'Ramsha',
     location: 'ballia',
-    image: '../public/ramsha.png',
+    image: '/ramsha.png',
     text: "Tisha created the most beautiful traditional mehndi-inspired nail art for my sister's wedding. Everyone was asking where I got them done!"
   }, {
     id: 4,
     name: 'Vanshika',
     location: 'ballia',
-    image: '../public/vanshika.png',
+    image: '/vanshika.png',
     text: 'The gel nails I got lasted for weeks without chipping. The salon ambiance is so relaxing and the service is always professional. Highly recommend!'
   }];
   const [currentIndex, setCurrentIndex] = useState(0);

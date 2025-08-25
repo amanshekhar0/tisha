@@ -98,7 +98,6 @@ export const Header: React.FC<HeaderProps> = ({ openBookingModal }) => {
               <span className="bg-gradient-to-r from-[#D4A574] via-[#E6C17A] to-[#F4E4BC] bg-clip-text text-transparent">
                 The Nail Affair
               </span>
-              <span className="text-[#E8B4B8]">&nbsp;with Tisha</span>
             </motion.h1>
 
             {/* Enhanced sparkle animation */}
