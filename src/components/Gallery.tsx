@@ -21,7 +21,7 @@ const galleryItems = [
     id: 3,
     image: "/n3.jpg",
     title: "Brown & Nude Elegance",
-    price: "₹1,600",
+    price: "₹1,400",
     categories: ["minimal", "traditional"],
   },
   
@@ -32,25 +32,19 @@ const galleryItems = [
     price: "₹1,500",
     categories: ["glitter", "traditional"],
   },
-  {
-    id: 8,
-    image: "/n2.jpg",
-    title: "Pastel Dream",
-    price: "₹1,300",
-    categories: ["minimal", "traditional"],
-  },
+ 
   {
     id: 9,
     image: "/w1.jpg",
     title: "Luxury Bridal Glamour",
-    price: "₹3,200",
+    price: "₹1,100",
     categories: ["glitter", "traditional"],
   },
   {
     id: 10,
     image: "/w2.jpg",
     title: "Seasonal Spring Delight",
-    price: "₹1,900",
+    price: "₹1,200",
     categories: ["minimal", "traditional"],
   },
   {
@@ -64,21 +58,21 @@ const galleryItems = [
     id: 12,
     image: "/l3.jpg",
     title: "Golden Glitter Delight",
-    price: "₹1,500",
+    price: "₹900",
     categories: ["glitter", "minimal"],
   },
   {
     id: 13,
     image: "/l2.jpg",
     title: "Golden Glitter Delight",
-    price: "₹1,000",
+    price: "₹1,500",
     categories: ["glitter", "minimal"],
   },
   {
     id: 14,
     image: "/leg.jpg",
     title: "Golden Glitter Delight",
-    price: "₹1,000",
+    price: "₹1,200",
     categories: ["glitter", "minimal"],
   },
 ];
