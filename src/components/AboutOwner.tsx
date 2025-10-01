@@ -47,7 +47,7 @@ export const AboutOwner = () => {
               With a passion for nail artistry and a certification in advanced
               nail techniques, Tisha brings creativity and precision to every
               service. Her journey began with a simple love for beautiful nails
-              and has evolved into creating Patna's premier nail art
+              and has evolved into creating Ballia's premier nail art
               destination.
             </p>
             <div className="space-y-4 mb-8">
